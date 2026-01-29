@@ -1,0 +1,11 @@
+.env
+*.mp4
+# 대용량 모델 파일 및 데이터 폴더 제외
+*.pkl
+ag_models_california_housing/
+*.zip
+
+# OS 및 환경 설정
+.DS_Store
+Thumbs.db
+.venv/
